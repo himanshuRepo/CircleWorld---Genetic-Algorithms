@@ -14,14 +14,7 @@ During replication, a chance for mutation enables the progeny's color and radius
 
 Setup
 -----
-
-Pull submodules:
-
-```
-$ make git
-```
-
-Install apt reqs:
+Install pygame reqs:
 
 ```
 $ sudo pip install pygame
