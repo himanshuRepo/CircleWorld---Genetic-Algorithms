@@ -30,7 +30,10 @@ $ sh run.sh
 Commands
 --------
 → (right arrow):   Advance generations by 1
+
 ↑ (up arrow):      Advance generations by 10
+
 ↓ (down arrow):    Advance generations by 100
+
 g:                 Advance generations by 1000
 q:                 Quit
